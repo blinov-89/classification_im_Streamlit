@@ -10,3 +10,6 @@ Web-приложение для классификации изображени�
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946).
 
 Тестирование изменений без ключа SSH
+
+
+https://blinov-89-classification-im-streaml-image-classification-hcl9yi.streamlit.app/
