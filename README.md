@@ -13,3 +13,5 @@ Web-приложение для классификации изображени�
 
 
 https://blinov-89-classification-im-streaml-image-classification-hcl9yi.streamlit.app/
+
+![streamlit1](https://user-images.githubusercontent.com/61515881/209778902-1e356979-edbe-4403-a35f-d436f4448ca7.jpg)
